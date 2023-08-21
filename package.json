@@ -1,0 +1,22 @@
+{
+  "name": "autocannon",
+  "version": "1.0.0",
+  "description": "Benchmarking a many endpoints using autocannon.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a-darul/autocannon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/a-darul/autocannon/issues"
+  },
+  "homepage": "https://github.com/a-darul/autocannon#readme",
+  "dependencies": {
+    "autocannon": "^7.12.0"
+  }
+}
